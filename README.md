@@ -1,6 +1,6 @@
 # Caffeine Tracker
 
-A personal Swift  experiment with my Apple Watch.
+A personal Swift experiment with my Apple Watch.
 
 ## Features
 

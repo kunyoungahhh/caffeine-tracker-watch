@@ -16,3 +16,7 @@ A personal Swift experiment with my Apple Watch.
 ## Status
 
 Personal project - work in progress
+
+## Screenshot
+
+![Screen](caffeine_watch.png)
